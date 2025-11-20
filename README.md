@@ -1,5 +1,4 @@
 # 🎯 Guess the Number Game
----
 
 ## 📑 Table of Contents
 - [📖 About](#-about)
