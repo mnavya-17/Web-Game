@@ -79,7 +79,9 @@ An interactive **Guess the Number Game** built with **HTML, CSS, and JavaScript*
 
 ## 📂 Project Structure
 ├── index.html        # Game structure 
+
 ├── style.css         # Styling and layout 
+
 └── script.js         # Game logic and interactivity
 
 ---
